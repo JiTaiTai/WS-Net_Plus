@@ -24,5 +24,4 @@ WHU dataset:[Link to Dataset](https://study.rsgis.whu.edu.cn/pages/download/buil
 CLCD dataset:[Link to Dataset](https://github.com/liumency/CropLand-CD).
 
 ## results
-[Baidu Netdisk]https://pan.baidu.com/s/11l--G_zMTleWXJTjZzjKOA (Extraction code: acdc)
-
+https://drive.google.com/drive/folders/1uH9iVishV5DS56XtFTewFCewjocOzSs1?usp=drive_link
